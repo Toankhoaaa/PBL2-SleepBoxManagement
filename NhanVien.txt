@@ -1,0 +1,8 @@
+------+---------+-----------------------+------------+-------------+-------------+
+  AGE | GENDER  |          NAME         |    MANV    |    SALARY   |   OFFICE    |
+------+---------+-----------------------+------------+-------------+-------------+
+  18  |   Nam   |          Le Van Nam   |   NV-015   |   5000000   |   Phuc Vu   |
+  20  |   Nam   |   Doan Cong Tuan Vu   |   QL-023   |  10000000   |   Quan Ly   |
+  18  |    Nu   |      Nguyen Thi Van   |   NV-014   |   5000000   |   Phuc Vu   |
+  19  |    Nu   |          Le Thi Nga   |   PC-022   |   5000000   |   Pha Che   |
+  19  |   Nam   |        Le Dinh Toan   |   PC-021   |   5000000   |   Pha Che   |
